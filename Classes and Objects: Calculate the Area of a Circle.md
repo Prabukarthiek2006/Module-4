@@ -12,9 +12,6 @@ To write a Python program that calculates the **area of a circle** based on the 
 
 ## 🧾 Program
 ```
-DEVELOPED BY: JANARTHANAN K
-REGISTER NO: 212223040072
-
 import math
 
 class cse:
