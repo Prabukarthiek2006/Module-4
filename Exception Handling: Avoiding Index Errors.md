@@ -12,9 +12,6 @@ To write a Python program that handles an **IndexError** when trying to access a
 
 ## 🧾 Program
 ```
-DEVELOPED BY: JANARTHANAN K
-REGISTER NO: 212223040072
-
 try:
     # Taking 3 elements input from the user
     L = []
