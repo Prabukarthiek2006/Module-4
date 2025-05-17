@@ -31,8 +31,6 @@ To write a Python program that sorts a dictionary's:
 
 ## 🧪Program
 ```
-DEVELOPED BY: JANARTHANAN K
-REGISTER NO: 212223040072
 
 input_dict = {2: 56, 1: 2, 5: 12, 4: 24, 6: 18, 3: 323}
 sorted_items = sorted(input_dict.items())
