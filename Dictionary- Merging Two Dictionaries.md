@@ -11,9 +11,6 @@ To write a Python program that merges **two dictionaries** and combines their ke
 
 ## 🧾 Program
 ```
-DEVELOPED BY: JANARTHANAN K
-REGISTER NO: 212223040072
-
 a=eval(input())
 b=eval(input())
 c=a.copy()
